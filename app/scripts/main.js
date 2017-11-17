@@ -1,9 +1,18 @@
-let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+function createNumbers(count) {
+  let arr = []
+  for (var i = 1; i <= count; i++) {
+    arr.push(i);
+  }
+  return arr;
+}
+
+let numbers = createNumbers(10);
+
 
 //var squareNumbers = numbers.map(function(num) {return num * num});
 let squareNumbers = numbers.map((num) => num * num);
 let productNumbersSquareNumbers = numbers.map((num, index) => {
-    return num * squareNumbers[index];
+  return num * squareNumbers[index];
 })
 
 console.log(numbers);
