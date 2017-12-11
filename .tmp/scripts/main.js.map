@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.js"],"names":["console","log"],"mappings":";;AAAAA,QAAQC,GAAR,CAAY,gBAAZ","file":"main.js","sourcesContent":["console.log('\\'Allo \\'Allo!');\n"]}
+{"version":3,"sources":["main.js"],"names":["console","log"],"mappings":";;AAAAA,QAAQC,GAAR,CAAY,aAAZ","file":"main.js","sourcesContent":["console.log('Moin World!');\r\n"]}

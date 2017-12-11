@@ -1,4 +1,4 @@
 'use strict';
 
-console.log('\'Allo \'Allo!');
+console.log('Moin World!');
 //# sourceMappingURL=main.js.map
