@@ -6,7 +6,7 @@ function createNumbers(count) {
     return arr;
   }
   
-  let numbers = createNumbers(1000);
+  let numbers = createNumbers(100);
   
   
   //var squareNumbers = numbers.map(function(num) {return num * num});

@@ -8,7 +8,7 @@ function createNumbers(count) {
   return arr;
 }
 
-var numbers = createNumbers(1000);
+var numbers = createNumbers(100);
 
 //var squareNumbers = numbers.map(function(num) {return num * num});
 var squareNumbers = numbers.map(function (num) {
